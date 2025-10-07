@@ -1,5 +1,5 @@
 # Olá! Eu sou a Julia 👋
-<div align="center">
+<div>
   <a href="mailto:juliactp.santos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank">
   </a>
@@ -10,13 +10,13 @@
 
 ###
 
-<div align="center">
+<div>
     <a href="https://github.com/julia-ctp">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-ctp&show_icons=true&theme=dracula&count_private=true"/>
      <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-ctp&layout=compact&langs_count=6&theme=dracula"/> -->
     </a>
 
-## Tecnologias e linguagens
+## 🛠️ Tecnologias e habilidades
 ![JavaScript](https://camo.githubusercontent.com/9bbd4c2b5f7cda139d91d34caa14392df56353ca55e19b58184610aa8b123854/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
 ![TypeScript](https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![React](https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)

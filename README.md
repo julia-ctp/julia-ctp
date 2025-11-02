@@ -12,7 +12,7 @@
 
 <div>
     <a href="https://github.com/julia-ctp">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-ctp&show_icons=true&theme=dracula&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-ctp&show_icons=true&theme=omni&count_private=true&show=prs_merged&hide=issues,stars&rank_icon=github"/>
      <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-ctp&layout=compact&langs_count=6&theme=dracula"/> -->
     </a>
 

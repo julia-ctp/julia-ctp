@@ -15,10 +15,11 @@
 
 ## 🛠️ Tecnologias e habilidades
 
- <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,git,nodejs,express,python,django,postgres,mysql,supabase,docker&perline=8" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,git,nodejs,express,python,django,postgres,prisma,supabase,docker&perline=8" />
 
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 ---
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julia-ctp&theme=radical" alt="Top languages by repo badge"/>
